@@ -18,6 +18,7 @@ import com.amazonaws.services.kinesis.connectors.interfaces.IEmitter;
 
 import so.sao.analytics.pipeline.common.utils.RedisKeyCmd;
 import so.sao.analytics.pipeline.common.utils.RedisStringCmd;
+
 import so.sao.analytics.realtime_aws_upgrade.common.Constants;
 import so.sao.analytics.realtime_aws_upgrade.model.ActivityCount;
 import so.sao.analytics.realtime_aws_upgrade.utils.ElasticCacheKinesisConnectorConfiguration;
